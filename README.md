@@ -1,7 +1,7 @@
 # Testvagrant-coding-problem
  To run the file we have to type the following command in command prompt
  <br>
-``python coding_solution.py``
+``python Coding_solution.py``
 <br>
 The application will ask for the budget as an input and will print the respective output in the command prompt
 <br>
